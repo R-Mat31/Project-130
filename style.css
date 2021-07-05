@@ -1,0 +1,22 @@
+body{
+ background-size : cover;
+}
+.heading{
+ background-color : #0dff00;
+ margin-top : 0px;
+ width : 100%;
+}
+#speed{
+ position : absolute;
+}
+#volume{
+ position : absolute;
+ right : 0;
+}
+#disk{ 
+ width : 100px;
+}
+canvas{
+ border : 2px dashed white;
+ border-radius : 5px;
+}
